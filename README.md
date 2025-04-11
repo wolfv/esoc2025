@@ -252,25 +252,21 @@ Then, make a pull request on a good first issue by April 26. You will be contact
 
 ---
 
-### **rattler**
+### **rattler-build**
 
-**Rust crates for fast handling of conda packages**
+**Build Conda packages fast with rattler-build**
 
-`rattler` is a library that provides common functionality used within the conda ecosystem.
+`rattler-build` is a new package build tool for the Conda ecosystem. It builds packages very quickly on any operating system, from C/C++, Python to Rust - many programming languages are supported.
 Projects are available to implement build process mechanisms, for instance via parallelization
 
-##### About rattler
-
-The goal of `rattler` is to enable programs and other libraries to easily interact with the conda ecosystem without being dependent on Python. Its primary use case is as a library that you can use to provide conda related workflows in your own tools.
-
-[GitHub repo](https://github.com/conda/rattler) · [Discord](https://discord.gg/kKV8ZxyzY4)
+[GitHub repo](https://github.com/prefix-dev/rattler-build) · [Discord](https://discord.gg/kKV8ZxyzY4)
 
 ##### 2025 ESoC projects
 
 See [here for a list of projects ideas](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/prefix-dev.md).
 
 **HOW TO APPLY:** mention `rattler` on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
-Then, make a pull request on a good first issue by April 26. You will be contacted with further details by the `rattler` team.
+Then, make a pull request on a good first issue by April 26. You will be contacted with further details by the `rattler-build` team.
 
 * Deadline: April 26, 18:00 UTC
 * Hub: German Center for Open Source AI
